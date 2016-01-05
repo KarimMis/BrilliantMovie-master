@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Label for  options SortedBy preference -->
+      <string name="pref_sortby_label_popular">By popular</string>
+    <string name="pref_sortby_label_highest_rated">By highest rated</string>
+    <string name="pref_sortby_label_favourite">By Favourite</string>
+
+    <!-- Key name for Sorted by -->
+    <string name="pref_sort_key" translatable="false">Sorted by</string>
+
+    <!-- Value in popular -->
+    <string name="pref_sortedby_popular" translatable="false">popularity.desc</string>
+    <!-- Value in highest rated -->
+    <string name="pref_sortedBy_highstedRated" translatable="false">vote_average.desc</string>
+    <string name="pref_sortedby_favourite" translatable="false">favourite</string>
+
+</resources>
